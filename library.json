@@ -1,39 +1,35 @@
-[
+
+   [
   {
-    "title":"python crash course",
+    "title": "Python Crash Course",
     "author": "Eric Matthes",
-    "publication_year":2020,
-     "genre" "codeing",
-    "read_status ":fals,
-    "added_data" : " 2025-04-09 8:36"
-    
-    
+    "publication_year": 2020,
+    "genre": "coding",
+    "read_status": false,
+    "added_data": "2025-04-09 08:36"
   },
   {
-    "title":" Learning python",
+    "title": "Learning Python",
     "author": "Mark Lutz",
-    "publication_year":2020,
-     "genre" "learning",
-    "read_status ":true,
-    "added_data" : "2021-03-09 00:"
-    
+    "publication_year": 2020,
+    "genre": "learning",
+    "read_status": true,
+    "added_data": "2021-03-09 00:00"
   },
   {
-    "title":" Head First python",
+    "title": "Head First Python",
     "author": "Paul Barry",
-    "publication_year":2020,
-     "genre" "programming",
-    "read_status ":fals,
-    "add_data" :"2023-04-18 10:36"
-     
+    "publication_year": 2020,
+    "genre": "programming",
+    "read_status": false,
+    "added_data": "2023-04-18 10:36"
   },
   {
-     "title":" Introduction to Machine Learning with python",
+    "title": "Introduction to Machine Learning with Python",
     "author": "Andreas C Muller & Sarah Guido",
-    "publication_year":2020,
-    "genre" "programming",
-    "read_status ":true,
-    "add_data" :" 2024-14-06 12:15"
-    
+    "publication_year": 2020,
+    "genre": "programming",
+    "read_status": true,
+    "added_data": "2024-06-14 12:15"
   }
 ]
